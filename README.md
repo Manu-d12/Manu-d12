@@ -1,77 +1,59 @@
-# Hey 👋 I'm Manoj Kumar
+# Hey folks 👋, I'm Manoj Kumar.
 
-Backend Engineer at AutoRABIT  
-Java | Spring Boot | REST APIs | System Design  
-
----
-
-## 👨‍💻 About Me
-
-- Backend Engineer building scalable systems using Java & Spring Boot
-- Strong in API design, database optimization, and performance tuning
-- Experience working on production systems and enterprise dashboards
-- Passionate about clean architecture & efficient backend solutions
+Backend Engineer at **AutoRABIT**, working on scalable backend systems and enterprise-grade solutions.  
+Experienced in designing, developing, testing, and maintaining RESTful services using Java and Spring Boot.  
+Strong in performance optimization, database design, debugging production issues, and system-level improvements.  
+Focused on writing clean, maintainable, and efficient code.
 
 ---
 
-## 🛠️ Tech Stack
+## 🔗 Connect
 
-### Languages
-- Java
-- JavaScript
-- C++
-- SQL
-
-### Backend
-- Spring Boot
-- Hibernate / JPA
-- REST APIs
-- Microservices
-
-### Databases
-- PostgreSQL
-- MySQL
-- Redis
-
-### Tools
-- Docker
-- Git
-- Swagger
-- Postman
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-kumar-91618a216/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mdnu00066@gmail.com)
 
 ---
 
-## 📂 Featured Repositories
+## 💻 Programming Languages
 
-### 🔗 Shrinkly – URL Shortener (Backend)
-Spring Boot based scalable URL shortening service.
-
-- Snowflake ID generation
-- Redis caching
-- Analytics tracking
-
-Repo:
-👉 https://github.com/Manu-d12/Shrinkly-URL-Shortener-App-
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60"/>
+</p>
 
 ---
 
-### 🔗 Shrinkly – Frontend
-React-based frontend for URL shortener.
+## ⚙️ Libraries and Frameworks
 
-Repo:
-👉 https://github.com/Manu-d12/Shrinkly-Frontend-URL-Shortener-App-
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="60" height="60"/>
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="60" height="60"/>
+</p>
+
+---
+
+## 📂 Key Repositories
+
+- 🔗 [Shrinkly Backend](https://github.com/Manu-d12/Shrinkly-URL-Shortener-App-)  
+- 🔗 [Shrinkly Frontend](https://github.com/Manu-d12/Shrinkly-Frontend-URL-Shortener-App-)  
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manu-d12&show_icons=true&theme=default)
+![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manu-d12&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manu-d12&layout=compact)
-
----
-
-## 📫 Connect
-
-- LinkedIn: https://www.linkedin.com/in/manoj-kumar-91618a216/
-- Email: mdnu00066@gmail.com
