@@ -1,9 +1,9 @@
 # Hey folks 👋, I'm Manoj Kumar.
 
-Backend Engineer at **AutoRABIT**, working on scalable backend systems and enterprise-grade solutions.  
-Experienced in designing, developing, testing, and maintaining RESTful services using Java and Spring Boot.  
-Strong in performance optimization, database design, debugging production issues, and system-level improvements.  
-Focused on writing clean, maintainable, and efficient code.
+**Backend Engineer at AutoRABIT who loves building reliable and scalable backend systems.  
+I work primarily with Java and Spring Boot, focusing on API design, performance optimization, and clean architecture.  
+I genuinely enjoy solving real-world problems, debugging tough production issues, and continuously improving systems to make them faster and more efficient.**
+
 
 ---
 
@@ -45,15 +45,15 @@ Focused on writing clean, maintainable, and efficient code.
 
 ---
 
-## 📂 Key Repositories
+## 🛠️ Tools & Environment
 
-- 🔗 [Shrinkly Backend](https://github.com/Manu-d12/Shrinkly-URL-Shortener-App-)  
-- 🔗 [Shrinkly Frontend](https://github.com/Manu-d12/Shrinkly-Frontend-URL-Shortener-App-)  
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60" height="60"/>
+</p>
 
----
 
-## 📊 GitHub Stats
-
-![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manu-d12&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manu-d12&layout=compact)
